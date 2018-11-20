@@ -1,4 +1,4 @@
-#Automatic Trimap Generation for Image Matting
-##Summary
+# Automatic Trimap Generation for Image Matting
+## Summary
 The goal of the paper is to do automatic trimap generation that are to be used for image matting. First, superpixels are created for the input image, as well as a saliency map. OTC features are extracted for each superpixel. Each superpixel is classified as salient or non-salient depending if its median saliency value is higher than some threshold T. For foreground and background respectively, the OTC features are clustered into five clusters. The superpixel class is then modified if the superpixel features is closer than some threshold T_2 to any cluster center of the opposite class. The resulting saliency map is binarized, and then eroded and dilated. The difference of the dilated and eroded mask is taken to be the unknown region. An off-the shelf matting algorithm is then used to compute the matte.
 
