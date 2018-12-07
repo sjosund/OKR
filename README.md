@@ -6,6 +6,7 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [DeepLens: Shallow Depth Of Field From A Single Image](https://arxiv.org/abs/1611.01144)  | 49 ||
 | [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144)  | 49 ||
 | [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf)  | 49 ||
 | [How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift)](https://arxiv.org/abs/1805.11604)  | 48 ||
