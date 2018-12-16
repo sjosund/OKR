@@ -6,6 +6,7 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 50 ||
 | [An empirical study of example forgetting during deep neural network learning](https://openreview.net/pdf?id=BJlxm30cKm) | 50 ||
 | Style transfer paper  | 50 ||
 | [DeepLens: Shallow Depth Of Field From A Single Image](https://arxiv.org/abs/1611.01144)  | 49 ||
