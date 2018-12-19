@@ -6,6 +6,7 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Deep GrabCut for Object Selection](https://arxiv.org/abs/1707.00243) | 51 |[Here](https://github.com/sjosund/OKR/blob/master/paper_summaries/DeepGrabCut.md)|
 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 50 ||
 | [An empirical study of example forgetting during deep neural network learning](https://openreview.net/pdf?id=BJlxm30cKm) | 50 ||
 | Style transfer paper  | 50 ||
