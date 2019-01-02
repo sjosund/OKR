@@ -6,6 +6,7 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1811.10323) | 1 ||
 | [Automatic Portrait Segmentation for Image Stylization](http://xiaoyongshen.me/webpage_portrait/papers/portrait_eg16.pdf) | 52 |[Here](https://github.com/sjosund/OKR/blob/master/paper_summaries/AutomaticPortraitSegmentationForImageStylization.md)|
 | [3D-Aware Scene Manipulation via Inverse Graphics](http://3dsdn.csail.mit.edu/?fbclid=IwAR0yPHMEXJdYiHwupvXrURXOa7aJxHvdZ1vCuJczLEfyK_Nm2D_OxE3XL0M) | 51 |[Here](https://github.com/sjosund/OKR/blob/master/paper_summaries/3D-AwareSceneManipulationViaInverseGraphics.md)|
 | [Deep GrabCut for Object Selection](https://arxiv.org/abs/1707.00243) | 51 |[Here](https://github.com/sjosund/OKR/blob/master/paper_summaries/DeepGrabCut.md)|
