@@ -6,6 +6,7 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Efficient Active Learning for Image Classification and Segmentation using a Sample Selection and Conditional Generative Adversarial Network](https://arxiv.org/abs/1806.05473) | 3 ||
 | [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1811.10323) | 1 ||
 | [Automatic Portrait Segmentation for Image Stylization](http://xiaoyongshen.me/webpage_portrait/papers/portrait_eg16.pdf) | 52 |[Here](https://github.com/sjosund/OKR/blob/master/paper_summaries/AutomaticPortraitSegmentationForImageStylization.md)|
 | [3D-Aware Scene Manipulation via Inverse Graphics](http://3dsdn.csail.mit.edu/?fbclid=IwAR0yPHMEXJdYiHwupvXrURXOa7aJxHvdZ1vCuJczLEfyK_Nm2D_OxE3XL0M) | 51 |[Here](https://github.com/sjosund/OKR/blob/master/paper_summaries/3D-AwareSceneManipulationViaInverseGraphics.md)|
