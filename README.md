@@ -6,6 +6,9 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/pdf/1210.5644.pdf) | 5 ||
+| [PhotoWake-Up: 3D Character Animation from a Single Photo](https://arxiv.org/pdf/1812.02246.pdf) | 4 ||
+| [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/) | 4 ||
 | [Globally and Locally Consistent Image Completion](http://delivery.acm.org/10.1145/3080000/3073659/a107-iizuka.pdf?ip=211.249.70.225&id=3073659&acc=ACTIVE%20SERVICE&key=58C7DD92F91E3631%2E58C7DD92F91E3631%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1547599302_1f5660875ad5decb5d466b594ce20987) | 3 ||
 | [Efficient Active Learning for Image Classification and Segmentation using a Sample Selection and Conditional Generative Adversarial Network](https://arxiv.org/abs/1806.05473) | 3 ||
 | [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1811.10323) | 1 ||
