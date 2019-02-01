@@ -6,6 +6,8 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/abs/1607.08128) | 5 ||
+| [Virtual DSLR: High Quality Dynamic Depth-of-Field Synthesis on Mobile Platforms](http://vic.shanghaitech.edu.cn/vrvc/Jingyi%20Yu_files/paper/2016IS&T_YangYang_13.pdf) | 5 ||
 | [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/pdf/1210.5644.pdf) | 5 ||
 | [PhotoWake-Up: 3D Character Animation from a Single Photo](https://arxiv.org/pdf/1812.02246.pdf) | 4 ||
 | [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/) | 4 ||
