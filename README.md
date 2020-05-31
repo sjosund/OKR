@@ -6,6 +6,20 @@
 
 | Paper    | Week  | Summary |
 |----------|-------|---------|
+| [Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation](https://arxiv.org/abs/1706.04737) | 23 ||
+| [Deep Bayesian Active Learning with Image Data](https://arxiv.org/abs/1703.02910) | 21 ||
+| [Bayesian Uncertainty Estimation for Batch Normalized Deep Networks ](https://arxiv.org/abs/1802.06455) | 21 ||
+| [Learning-based Sampling for Natural Image Matting](http://people.inf.ethz.ch/aksoyy/papers/CVPR19-samplenet.pdf) | 17 ||
+| [AlphaGAN: Generative adversarial networks for natural image matting](https://arxiv.org/abs/1807.10088) | 17 ||
+| [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) | 16 ||
+| [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925) | 16 ||
+| [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) | 16 ||
+| [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) | 16 ||
+| [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) | 16 ||
+| [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | 15 ||
+| [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) | 15 ||
+| [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) | 15 ||
+| [FastDepth: Fast Monocular Depth Estimation on Embedded Systems](http://fastdepth.mit.edu/2019_icra_fastdepth.pdf) | 15 ||
 | [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/abs/1607.08128) | 5 ||
 | [Virtual DSLR: High Quality Dynamic Depth-of-Field Synthesis on Mobile Platforms](http://vic.shanghaitech.edu.cn/vrvc/Jingyi%20Yu_files/paper/2016IS&T_YangYang_13.pdf) | 5 ||
 | [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/pdf/1210.5644.pdf) | 5 ||
